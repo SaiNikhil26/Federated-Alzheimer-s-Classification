@@ -1,1 +1,1 @@
-# Federated-Alzheimer-s-Classification
+# Federated-Alzheimer's-Classification
